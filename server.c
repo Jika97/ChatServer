@@ -9,5 +9,6 @@
 #include <sys/socket.h>
 
 int main(void){
-    
+    int i;
+    pid_t pid_fils;
 }
